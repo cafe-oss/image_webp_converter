@@ -42,8 +42,9 @@ Click the **Fork** button on the top right of this page to copy the repo to your
 
 ```bash
 git clone https://github.com/cafe-oss/image_webp_converter.git
-cd webp-converter
+cd image_webp_converter
 npm install
 npm run start
 ```
+
 # image_webp_converter
